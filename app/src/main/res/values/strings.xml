@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="hello">Hello World!</string>
+    <string name="ok">Ok</string>
+    <string name="newNote">Novo</string>
+    <string name="addNote">Adicionar</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
